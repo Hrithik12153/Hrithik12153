@@ -8,9 +8,10 @@
 	<br>
   <img src="https://profile-counter.glitch.me/Hrithik Moger/count.svg" />
 </p>
-
-<h2 align="center"><strong>Wanna Hire Me!</strong></h2>
-<p align="center">
+<br>
+<br>
+<h2><strong>Wanna Hire Me!</strong></h2>
+<p>
   <a href="https://github.com/Hrithik12153?tab=followers">
     <img src="https://img.shields.io/github/followers/Hrithik12153?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
