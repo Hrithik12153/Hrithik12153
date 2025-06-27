@@ -2,7 +2,7 @@
  
  <img align="right" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="400"/>
 
-<p align="left"><strong> Assistant System Engineer-Trainee at TATA Consultancy Services Limited (TCSL).  </strong></p> <br>
+<p align="left"><strong> System Engineer at TATA Consultancy Services Limited .  </strong></p> <br>
 
 <p align="left"> Visitor count
 	<br>
