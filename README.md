@@ -4,10 +4,7 @@
 
 <p align="left"><strong> System Engineer at TATA Consultancy Services Limited .  </strong></p> <br>
 
-<p align="left"> Visitor count
-	<br>
-  <img src="https://profile-counter.glitch.me/Hrithik Moger/count.svg" />
-</p>
+
 <br>
 <br>
 <h2><strong>Wanna Hire Me!</strong></h2>
