@@ -9,9 +9,6 @@
 <br>
 <h2><strong>Wanna Hire Me!</strong></h2>
 <p>
-  <a href="https://github.com/Hrithik12153?tab=followers">
-    <img src="https://img.shields.io/github/followers/Hrithik12153?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
-  </a>
   <a href="https://twitter.com/Hrithik39917870">
     <img src="https://img.shields.io/twitter/follow/Hrithik39917870?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>	
