@@ -19,11 +19,3 @@
 </p>
 
 <!-- ### Connect with me: -->
-
-<br />
-
----
-<p align="center">
-<img alt="Hrithik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Hrithik12153&show_icons=true&hide_border=true" />
-</p>
- 
